@@ -2,4 +2,12 @@
 html { box-sizing: border-box; }
 *, ::after, ::before { box-sizing: inherit; }
 
+h1 {
+    text-align: center;
+}
+img {
+    border: 10px, solid, black;
+    border-radius: 50%;
+}
+
 
