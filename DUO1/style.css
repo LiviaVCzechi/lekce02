@@ -1,0 +1,29 @@
+body {
+    padding: 100px;
+    margin: 0%;
+    background-color: rgb(168, 159, 149);
+}
+
+h1 {font-size: 50px;
+    text-align: center;
+    }
+.portret {
+    font-size: 20px;
+}
+.foto-portret {
+    width: 200px;
+    border-radius: 50%;
+    float: left;
+}
+h1,
+h2 {font-family: 'Great Vibes', cursive;
+    font-size: 40px;
+    font-style: italic;
+}
+.Rheingau {
+    font-size: 17px;
+    padding-top: 220px;
+}
+.Rheingau img {
+    width: 49.8%;
+}
